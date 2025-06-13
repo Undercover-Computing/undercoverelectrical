@@ -44,3 +44,44 @@ footer p {
     margin-bottom: 10px;
     font-size: 1.2em;
 }
+
+/* Navigation */
+#nav {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#nav .button {
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 12px 24px;
+  background-color: #ffffff;
+  color: #333333;
+  font-weight: 600;
+  font-size: 16px;
+  text-decoration: none;
+  border: 2px solid #ccc;
+  border-radius: 30px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+#nav .button:hover {
+  background-color: #f4f4f4;
+  border-color: #888;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+@media (prefers-color-scheme: dark) {
+  #nav .button {
+    background-color: #1f1f1f;
+    color: #f0f0f0;
+    border-color: #444;
+  }
+
+  #nav .button:hover {
+    background-color: #333;
+    border-color: #777;
+  }
+}
