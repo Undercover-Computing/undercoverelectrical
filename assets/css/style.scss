@@ -75,3 +75,13 @@ footer p {
   border-color: #aaa;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
 }
+
+/* Table */
+.table-responsive {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+}
+.table-responsive table {
+  width: 100%;
+}
