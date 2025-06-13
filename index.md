@@ -30,5 +30,5 @@ layout: default
 
 Based in **New Plymouth**, I serve the wider Taranaki region. Let me know where you're located, and I'll get back to you with availability.
 
-
-*Last updated: June 2025*
+-# ‎
+-# *Last updated: June 2025*
