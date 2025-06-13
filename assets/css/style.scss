@@ -75,3 +75,32 @@ footer p {
   border-color: #aaa;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
 }
+
+/* Bullet points */
+ul {
+  list-style-type: disc;      /* classic solid circle bullets */
+  margin-left: 1.5em;         /* indent whole list */
+  padding-left: 0;            /* remove default padding */
+  color: #333;                /* softer black text color */
+  font-size: 1rem;            /* normal readable font size */
+  line-height: 1.5;           /* comfortable line height */
+}
+
+ul li {
+  margin-bottom: 0.5em;       /* space between bullet items */
+  position: relative;
+  padding-left: 0.6em;        /* space between bullet and text */
+}
+
+/* Optional: custom bullet style with a smaller bullet */
+ul li::marker {
+  color: #007BFF;             /* nice blue bullet */
+  font-size: 1.2em;           /* slightly bigger bullet */
+  opacity: 0.8;               /* subtle transparency */
+}
+
+/* For better alignment on multiline list items */
+ul li {
+  text-indent: -0.6em;
+  padding-left: 1.2em;
+}
