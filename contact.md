@@ -52,6 +52,5 @@ Based in **New Plymouth**, I serve the wider Taranaki region. Let me know wher
 
 All enquiries are handled confidentially. I do not share your contact details.
 
----
 
 *Last updated: June 2025*

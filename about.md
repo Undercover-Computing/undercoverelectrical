@@ -26,6 +26,5 @@ Undercover Electrical is a **New Plymouth-based**, fully **EWRB‑registered**
 | **Responsive Service** | Available via Facebook for prompt enquiries |
 </div>
 
----
 
 *Last updated: June 2025*
