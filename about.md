@@ -4,7 +4,7 @@ layout: default
 
 ## About Undercover Electrical⚡
 
-Undercover Electrical is a **New Plymouth-based**, fully **EWRB‑registered** electrical service provider. Locally owned and operated, we bring reliable, safe, and professional electrical solutions to residential and small commercial clients in Taranaki. :contentReference[oaicite:1]{index=1}
+Undercover Electrical is a **New Plymouth-based**, fully **EWRB‑registered** electrical service provider. Locally owned and operated, we bring reliable, safe, and professional electrical solutions to residential and small commercial clients in Taranaki. 
 
 ---
 
@@ -17,10 +17,10 @@ Undercover Electrical is a **New Plymouth-based**, fully **EWRB‑registered**
 
 ## Why Choose Us
 
-**Licensed & Certified** - Fully practices under EWRB regulations.
-**Local & Trusted** - Rooted in the Taranaki community.
-**Energy‑smart** - Focused on LED and low-energy solutions.
-**Responsive Service** - Available via Facebook, email, and phone.
+- **Licensed & Certified** - Fully practices under EWRB regulations.
+- **Local & Trusted** - Rooted in the Taranaki community.
+- **Energy‑smart** - Focused on LED and low-energy solutions.
+- **Responsive Service** - Available via Facebook, email, and phone.
 
 <br>
 *Last updated: June 2025*
