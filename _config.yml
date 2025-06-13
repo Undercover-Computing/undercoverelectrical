@@ -1,1 +1,6 @@
 theme: jekyll-theme-tactile
+title: "Undercover Electrical"
+description: "Undercover Electrical Website"
+url: "https://undercover-computing.github.io/undercoverelectrical"
+seo:
+  image: /assets/images/logo.jpg
