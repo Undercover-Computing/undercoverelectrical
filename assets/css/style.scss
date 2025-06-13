@@ -75,13 +75,3 @@ footer p {
   border-color: #aaa;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
 }
-
-/* Table https://www.geeksforgeeks.org/html/how-to-create-a-responsive-table-in-css */
-.table-responsive {
-  display: block;
-  width: 100%;
-  overflow-x: auto;
-}
-.table-responsive > table {
-  width: 100%;
-}

@@ -17,14 +17,10 @@ Undercover Electrical is a **New Plymouth-based**, fully **EWRB‑registered**
 
 ## Why Choose Us
 
-<div class="table-responsive">
-| Quality | Description |
-|--------|-------------|
-| **Licensed & Certified** | Fully practices under EWRB regulations |
-| **Local & Trusted** | Rooted in the Taranaki community |
-| **Energy‑smart** | Focused on LED and low-energy solutions |
-| **Responsive Service** | Available via Facebook for prompt enquiries |
-</div>
+**Licensed & Certified** - Fully practices under EWRB regulations.
+**Local & Trusted** - Rooted in the Taranaki community.
+**Energy‑smart** - Focused on LED and low-energy solutions.
+**Responsive Service** - Available via Facebook, email, and phone.
 
 <br>
 *Last updated: June 2025*
