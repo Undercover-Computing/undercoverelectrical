@@ -3,6 +3,18 @@
 
 @import "jekyll-theme-tactile";
 
+/* Footer */
+footer {
+    width: 100%;  /* Ensure full width */
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 40px 20px;
+    border-top: 1px solid #eaeaea;
+    color: #000;
+    position: relative;
+    left: 0;
+}
+
 footer ul {
     list-style: none;
     padding: 0;
