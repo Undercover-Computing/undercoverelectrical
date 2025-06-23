@@ -10,7 +10,7 @@ Undercover Electrical is a **New Plymouth-based**, fully **EWRB‑registered**
 
 ## My Credentials
 
-- **Licensed by the Electrical Workers Registration Board (EWRB)**  
+- Licensed by the Electrical Workers Registration Board (EWRB)
 - Commitment to ongoing industry best practices and training
 
 ---
